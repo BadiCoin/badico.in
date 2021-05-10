@@ -5,7 +5,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://badico.in' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: BadiCoin (BADI)
+username: BadiCoin
 user_description: The BadiCoin changes your style
 user_title: The coin for real Badigals
 email: pinas@badico.in

@@ -2576,7 +2576,7 @@ sub {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
   .header .site-title {
-    font-size: 200px;
+    font-size: 40px;
     display: block;
     line-height: 1;
     color: #fff; }
@@ -2694,9 +2694,10 @@ sub {
     height: auto; }
 
 .tech {
-  margin: 10px;
-  flex: 1 1 0; }
-  .tech h2, .tech h3 {
+  margin: 50px;
+  flex: 1; }
+  .tech h2,
+  .tech h3 {
     font-weight: 400; }
 
 .user {
