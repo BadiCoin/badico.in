@@ -2,11 +2,11 @@
 title: BadiCoin
 description: The coin for real Badigals
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'localhost:3000' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: 'https://badico.in' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: BadiCoin (BADI)
-user_description: 7 di picche
+user_description: The BadiCoin changes your style
 user_title: The coin for real Badigals
 email: pinas@badico.in
 # twitter_username: lorem_ipsum
